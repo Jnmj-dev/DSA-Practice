@@ -1,12 +1,12 @@
 # 🚀 Data Structures & Algorithms
 
-A collection of my C++ solutions to Data Structures & Algorithms problems solved across various coding platforms.
+A collection of my solutions to Data Structures & Algorithms problems solved across various coding platforms.
 
 ---
 
 ## 🎯 Current Focus
 - **Topic:** Language Fundamentals & Basic Logic Building
-- **Language:** C++17
+- **Language:** C++
 
 ---
 
@@ -94,7 +94,7 @@ A collection of my C++ solutions to Data Structures & Algorithms problems solved
 
 ## 🛠️ Repository Organization
 
-Solutions are organized into topic subdirectories using descriptive naming conventions:
+Solutions are organized into topic sub-directories using descriptive naming conventions:
 
 ```text
 DSA/
